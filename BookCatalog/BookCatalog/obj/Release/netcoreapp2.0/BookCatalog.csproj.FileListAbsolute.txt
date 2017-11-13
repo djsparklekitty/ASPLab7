@@ -1,0 +1,11 @@
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\bin\Release\netcoreapp2.0\BookCatalog.deps.json
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\bin\Release\netcoreapp2.0\BookCatalog.runtimeconfig.json
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\bin\Release\netcoreapp2.0\BookCatalog.runtimeconfig.dev.json
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\bin\Release\netcoreapp2.0\BookCatalog.dll
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\bin\Release\netcoreapp2.0\BookCatalog.pdb
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\obj\Release\netcoreapp2.0\BookCatalog.csprojResolveAssemblyReference.cache
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\obj\Release\netcoreapp2.0\BookCatalog.csproj.CoreCompileInputs.cache
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\obj\Release\netcoreapp2.0\BookCatalog.AssemblyInfoInputs.cache
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\obj\Release\netcoreapp2.0\BookCatalog.AssemblyInfo.cs
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\obj\Release\netcoreapp2.0\BookCatalog.dll
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\obj\Release\netcoreapp2.0\BookCatalog.pdb

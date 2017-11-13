@@ -1,0 +1,33 @@
+F:\295N\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.csprojResolveAssemblyReference.cache
+F:\295N\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.csproj.CoreCompileInputs.cache
+F:\295N\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.AssemblyInfoInputs.cache
+F:\295N\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.AssemblyInfo.cs
+F:\295N\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.deps.json
+F:\295N\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.runtimeconfig.json
+F:\295N\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.runtimeconfig.dev.json
+F:\295N\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.dll
+F:\295N\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.pdb
+F:\295N\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.dll
+F:\295N\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.pdb
+E:\295N\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.deps.json
+E:\295N\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.runtimeconfig.json
+E:\295N\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.runtimeconfig.dev.json
+E:\295N\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.dll
+E:\295N\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.pdb
+E:\295N\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.csproj.CoreCompileInputs.cache
+E:\295N\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.AssemblyInfoInputs.cache
+E:\295N\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.AssemblyInfo.cs
+E:\295N\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.dll
+E:\295N\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.pdb
+E:\295N\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\Lab5\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.deps.json
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\Lab5\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.runtimeconfig.json
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\Lab5\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.runtimeconfig.dev.json
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\Lab5\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.dll
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\Lab5\Lab5\Lab5\bin\Debug\netcoreapp2.0\Lab5.pdb
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\Lab5\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\Lab5\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\Lab5\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.AssemblyInfoInputs.cache
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\Lab5\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.AssemblyInfo.cs
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\Lab5\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.dll
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\Lab5\Lab5\Lab5\obj\Debug\netcoreapp2.0\Lab5.pdb

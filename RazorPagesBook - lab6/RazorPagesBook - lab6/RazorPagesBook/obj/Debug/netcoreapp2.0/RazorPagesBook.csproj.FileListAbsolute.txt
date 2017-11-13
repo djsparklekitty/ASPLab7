@@ -1,0 +1,22 @@
+C:\Users\jack\source\repos\RazorPagesBook\RazorPagesBook\bin\Debug\netcoreapp2.0\RazorPagesBook.deps.json
+C:\Users\jack\source\repos\RazorPagesBook\RazorPagesBook\bin\Debug\netcoreapp2.0\RazorPagesBook.runtimeconfig.json
+C:\Users\jack\source\repos\RazorPagesBook\RazorPagesBook\bin\Debug\netcoreapp2.0\RazorPagesBook.runtimeconfig.dev.json
+C:\Users\jack\source\repos\RazorPagesBook\RazorPagesBook\bin\Debug\netcoreapp2.0\RazorPagesBook.dll
+C:\Users\jack\source\repos\RazorPagesBook\RazorPagesBook\obj\Debug\netcoreapp2.0\RazorPagesBook.csprojResolveAssemblyReference.cache
+C:\Users\jack\source\repos\RazorPagesBook\RazorPagesBook\obj\Debug\netcoreapp2.0\RazorPagesBook.csproj.CoreCompileInputs.cache
+C:\Users\jack\source\repos\RazorPagesBook\RazorPagesBook\obj\Debug\netcoreapp2.0\RazorPagesBook.AssemblyInfoInputs.cache
+C:\Users\jack\source\repos\RazorPagesBook\RazorPagesBook\obj\Debug\netcoreapp2.0\RazorPagesBook.AssemblyInfo.cs
+C:\Users\jack\source\repos\RazorPagesBook\RazorPagesBook\bin\Debug\netcoreapp2.0\RazorPagesBook.pdb
+C:\Users\jack\source\repos\RazorPagesBook\RazorPagesBook\obj\Debug\netcoreapp2.0\RazorPagesBook.dll
+C:\Users\jack\source\repos\RazorPagesBook\RazorPagesBook\obj\Debug\netcoreapp2.0\RazorPagesBook.pdb
+C:\Users\jack\source\repos\RazorPagesBook - lab6\RazorPagesBook\bin\Debug\netcoreapp2.0\RazorPagesBook.deps.json
+C:\Users\jack\source\repos\RazorPagesBook - lab6\RazorPagesBook\bin\Debug\netcoreapp2.0\RazorPagesBook.runtimeconfig.json
+C:\Users\jack\source\repos\RazorPagesBook - lab6\RazorPagesBook\bin\Debug\netcoreapp2.0\RazorPagesBook.runtimeconfig.dev.json
+C:\Users\jack\source\repos\RazorPagesBook - lab6\RazorPagesBook\bin\Debug\netcoreapp2.0\RazorPagesBook.dll
+C:\Users\jack\source\repos\RazorPagesBook - lab6\RazorPagesBook\bin\Debug\netcoreapp2.0\RazorPagesBook.pdb
+C:\Users\jack\source\repos\RazorPagesBook - lab6\RazorPagesBook\obj\Debug\netcoreapp2.0\RazorPagesBook.csprojResolveAssemblyReference.cache
+C:\Users\jack\source\repos\RazorPagesBook - lab6\RazorPagesBook\obj\Debug\netcoreapp2.0\RazorPagesBook.csproj.CoreCompileInputs.cache
+C:\Users\jack\source\repos\RazorPagesBook - lab6\RazorPagesBook\obj\Debug\netcoreapp2.0\RazorPagesBook.AssemblyInfoInputs.cache
+C:\Users\jack\source\repos\RazorPagesBook - lab6\RazorPagesBook\obj\Debug\netcoreapp2.0\RazorPagesBook.AssemblyInfo.cs
+C:\Users\jack\source\repos\RazorPagesBook - lab6\RazorPagesBook\obj\Debug\netcoreapp2.0\RazorPagesBook.dll
+C:\Users\jack\source\repos\RazorPagesBook - lab6\RazorPagesBook\obj\Debug\netcoreapp2.0\RazorPagesBook.pdb

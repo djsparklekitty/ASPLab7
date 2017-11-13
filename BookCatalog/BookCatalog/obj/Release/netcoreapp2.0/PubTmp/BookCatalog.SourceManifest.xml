@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\obj\Release\netcoreapp2.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\obj\Release\netcoreapp2.0\PubTmp\EFSQLScripts\BookCatalog.Models.BookContext.sql" />
+</sitemanifest>

@@ -1,0 +1,15 @@
+C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=BookCatalog
+--content-root=C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog
+--file=C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\Pages\Books\Create.cshtml
+--file=C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\Pages\Books\Delete.cshtml
+--file=C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\Pages\Books\Details.cshtml
+--file=C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\Pages\Books\Edit.cshtml
+--file=C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\Pages\Books\Index.cshtml
+--file=C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\Pages\Error.cshtml
+--file=C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\Pages\Index.cshtml
+--file=C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\Pages\_Layout.cshtml
+--file=C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\Pages\_ViewImports.cshtml
+--file=C:\Users\robin_carl\Documents\Robin\School\Build\CS295N\Week 5\BookCatalog\BookCatalog\Pages\_ViewStart.cshtml
